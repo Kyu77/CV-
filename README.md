@@ -37,7 +37,7 @@ Passionné par les infrastructures, la conteneurisation et l'automatisation, je 
 ## 📄 Mon CV
 
 Vous pouvez consulter ou télécharger mon CV au format PDF :
-➡️ [**Télécharger mon CV (PDF)**](./CV%20De%20Castro%20Hugo%20Alterance%20DevOps.pdf)
+➡️ [**Télécharger mon CV (PDF)**](./CV De Castro Hugo Alternance DevOps (1).pdf)
 
 ---
 
